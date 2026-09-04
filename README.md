@@ -38,6 +38,12 @@ project-root test images. Model measurements come from the executable cascade;
 the map positions are deliberately synthetic/displaced. These values describe the
 demonstration dataset and are **not** final model-validation metrics.
 
+### Image provenance
+
+The field photograph featured in the portfolio compositions was supplied by the
+project owner and is cleared without restrictions for this portfolio use. Product
+screens are direct captures of the locally running CoffeeVision application.
+
 ## From field image to spatial evidence
 
 <p align="center">
@@ -95,4 +101,3 @@ precise farm coordinates.
 ---
 
 Designed and developed by [Miguel L. Rodrigues](https://miguellrodrigues.github.io/).
-
